@@ -1,0 +1,5 @@
+Variables
+ * Strings: variables de tipo letra
+ * Funciones (argumentos, `return`): tiene un parametro dentro de los parentesis que dse debe utilizar dentro de la funcion, retur sirve para convertir la funcion en un valor que se le iguala, este es lo que se ejecute dentro de esta
+ * Declaraciones `if`: para igualar varibles y obtener un si o un no, un verdadero o falso 
+ * Valores booleanos (`true`, `false`): son utilizados para decir si es verdare o falso alguna declaracion que se haga funcionan con la logica de unos y ceros
