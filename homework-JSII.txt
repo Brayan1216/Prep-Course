@@ -1,0 +1,2 @@
+`for`: Es un ciclo utilzado para recorrer arreglos y comparar la informacionque se encuentra dentro del arreglo, tambien sirve para crear un limite y repetir varias intruciones, como sumar o restar elementos
+* `&&`, `||`, `!`; son operadore utilizados para comparar diferentes varaibles

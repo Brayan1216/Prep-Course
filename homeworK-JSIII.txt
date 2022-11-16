@@ -1,0 +1,1 @@
+Arrays: los arras son un conjuntos de datos variables guardados dentro de llaves [], se pueden agregar nuevos elementos, reemplazar o quitar 
